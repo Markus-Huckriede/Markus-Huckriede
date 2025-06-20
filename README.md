@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there 👋 I`m Markus
+
+Step 1: HODL all the bitcoins and pray for moon.<br>
+Step 2: Meanwhile, actually learn some web dev skills so I don’t starve if Plan A takes a while.<br>
+Plan B? Well... Plan A, but faster! 😎
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="Python" />
