@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
+
 <!--
 **Markus-Huckriede/Markus-Huckriede** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
