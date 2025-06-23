@@ -1,8 +1,6 @@
 ## Hi there 👋 I`m Markus
 
-Step 1: HODL all the bitcoins and pray for moon.<br>
-Step 2: Meanwhile, actually learn some web dev skills so I don’t starve if Plan A takes a while.<br>
-Plan B? Well... Plan A, but faster! 😎
+🚀 **Web Developer in Progress** | 🔐 Ex-Industry Pro – Process Technician for Plastics and Rubber Technology | 🌍 Future Digital Nomad
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="Python" />
@@ -14,6 +12,21 @@ Plan B? Well... Plan A, but faster! 😎
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="60" alt="Postman" />  
 </p>
 
+Step 1: HODL all the bitcoins and pray for moon.<br>
+Step 2: Meanwhile, actually learn some web dev skills so I don’t starve if Plan A takes a while.<br>
+Plan B? Well... Plan A, but faster! 😎
+<br/>
+<br/>
+🧘‍♂️ Stay fit with Calisthenics&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🥗 Eat clean, live lean, chase the dream 
+<br/>
+<br/>
+### 📫 Let’s Connect
+
+Feel free to reach out or check out my projects:
+
+- 💼 [Portfolio Website](#) *(coming soon)*  
+- 📨 [Email](Markus.Huckriede@gmail.com)  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/markus-huckriede-674415251/)  
 
 
 
