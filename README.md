@@ -17,9 +17,6 @@ Step 2: Meanwhile, actually learn some web dev skills so I don’t starve if Pla
 Plan B? Well... Plan A, but faster! 😎
 <br/>
 <br/>
-🧘‍♂️ Stay fit with Calisthenics&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🥗 Eat clean, live lean, chase the dream 
-<br/>
-<br/>
 ### 📫 Let’s Connect
 
 Feel free to reach out or check out my projects:
