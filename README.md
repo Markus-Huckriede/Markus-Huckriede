@@ -13,6 +13,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="React" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="60" alt="Vue.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="60" alt="Figma" />
+  <img src="https://icons.iconarchive.com/icons/simpleicons-team/simple/128/lua-icon.png" height="60" alt="Lua" />
+
 </p>
 
 Step 1: HODL all the bitcoins and pray for moon.<br>
