@@ -1,6 +1,6 @@
 ## Hi there 👋 I`m Markus
 
-🚀 *Web Developer in Progress* | 🔐 Ex-Industry Pro – Process Technican for Plastics Engineering | 🌍 Future Digital Nomad
+ *Web Designer* 
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="Python" />
