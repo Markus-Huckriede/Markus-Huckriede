@@ -13,16 +13,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="React" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="60" alt="Vue.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="60" alt="Figma" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="60" alt="Lua" />
 
 
 </p>
 
-Step 1: HODL all the bitcoins and pray for moon.<br>
-Step 2: Meanwhile, actually learn some web dev skills so I don’t starve if Plan A takes a while.<br>
-Plan B? Well... Plan A, but faster! 😎
-<br/>
-<br/>
+
 ### 📫 Let’s Connect
 
 Feel free to reach out or check out my projects:
