@@ -45,6 +45,12 @@ I started learning coding with Scrimba – super practical and beginner-friendly
 [![Certificate](https://img.shields.io/badge/Backend%20Developer%20Path-009788)](https://scrimba.com/?via=u42d73a0)
 [![Certificate](https://img.shields.io/badge/Frontend%20Developer%20Path-8022FF)](https://scrimba.com/?via=u42d73a0)
 
+---
+
+### Masterschool Bootcamp
+
+https://referral.masterschool.com/uGBHX0tk
+
 
 
 
