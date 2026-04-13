@@ -27,12 +27,24 @@ Feel free to reach out or check out my projects:
 - 🌐 [LinkedIn](https://www.linkedin.com/in/markus-huckriede-674415251/)  
 
 
+---
+
+### 🚀 How I learned Web Development
+
+I started learning coding with Scrimba – super practical and beginner-friendly.
+
+👉 https://scrimba.com/learn-javascript-c0v?via=u42d73a0
+
 [![20% Discount off Scrimba](https://i.ibb.co/HD3x73NB/scrimbassadors-cta.png)](https://scrimba.com/?via=u42d73a0)
+
+---
+
+### 📚 Certificates
 
 [![Certificate](https://img.shields.io/badge/Fullstack%20Developer%20Path-165DFC)](https://scrimba.com/?via=u42d73a0)
 [![Certificate](https://img.shields.io/badge/Backend%20Developer%20Path-009788)](https://scrimba.com/?via=u42d73a0)
 [![Certificate](https://img.shields.io/badge/Frontend%20Developer%20Path-8022FF)](https://scrimba.com/?via=u42d73a0)
 
-https://scrimba.com/?via=u42d73a0
+
 
 
