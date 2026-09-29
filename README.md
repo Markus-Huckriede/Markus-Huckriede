@@ -28,7 +28,11 @@ Feel free to reach out or check out my projects:
 
 
 ---
+## Affiliate Links
 
+### Hostinger
+
+https://www.hostinger.com/de?REFERRALCODE=T9SMARKUSWZ0
 
 ### Masterschool Bootcamp
 
