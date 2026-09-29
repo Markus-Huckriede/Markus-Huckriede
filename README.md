@@ -23,7 +23,7 @@
 Feel free to reach out or check out my projects:
 
 - 💼 [Portfolio Website](https://markus-huckriede.github.io/Portfolio-Website/) 
-- 📨 [Email](Markus.Huckriede@gmail.com)  
+- 📨 [Email](hallo@markus-huckriede.de)  
 - 🌐 [LinkedIn](https://www.linkedin.com/in/markus-huckriede-674415251/)  
 
 
