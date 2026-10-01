@@ -56,11 +56,10 @@ Ich habe das **Masterschool-Bootcamp** abgeschlossen und baue seitdem an eigenen
 | [**Portfolio-Website**](https://markus-huckriede.github.io/Portfolio-Website/) | Meine persönliche Seite mit Projekten und Kontakt | HTML, CSS, JS |
 | [**Digital Nomad Maps**](https://www.digital-nomad-maps.de) | [Länder- und Visa-Infos für digitale Nomaden | React, Node.js, MySQL |
 
-## 📊 GitHub-Statistiken
+## 📊 Aktivität
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=markus-huckriede&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=markus-huckriede&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com/?user=Markus-Huckriede&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ## 🤝 Let's Connect
@@ -71,7 +70,8 @@ Du hast ein Projekt, eine Idee oder eine offene Stelle? Schreib mir einfach übe
 
 ## 💡 Empfehlungen
 
-<sub>*Werbung / Affiliate-Links:* Die folgenden Links sind Empfehlungslinks. Wenn du darüber bestellst oder buchst, bekomme ich ggf. eine Provision. Für dich ändert sich am Preis nichts. Ich empfehle nur, was ich selbst genutzt habe.</sub>
+<sub>*Werbung / Affiliate-Links:* Die folgenden Links sind Empfehlungslinks. Wenn du darüber bestellst oder buchst, bekommst du einen Rabatt und ich ggf. eine Provision. 
+Ich empfehle nur, was ich selbst genutzt habe.</sub>
 
 - 🌐 **[Hostinger](https://www.hostinger.com/de?REFERRALCODE=T9SMARKUSWZ0)**: Webhosting, das ich für [deinen Anwendungsfall] nutze *(Werbung)*
 - 🎓 **[Masterschool](https://referral.masterschool.com/uGBHX0tk)**: Das Bootcamp, über das ich in die Tech-Welt eingestiegen bin *(Werbung)*
