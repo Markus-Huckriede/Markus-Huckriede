@@ -56,12 +56,6 @@ Ich habe das **Masterschool-Bootcamp** abgeschlossen und baue seitdem an eigenen
 | [**Portfolio-Website**](https://markus-huckriede.github.io/Portfolio-Website/) | Meine persönliche Seite mit Projekten und Kontakt | HTML, CSS, JS |
 | [**Digital Nomad Maps**](https://www.digital-nomad-maps.de) | [Länder- und Visa-Infos für digitale Nomaden | React, Node.js, MySQL |
 
-## 📊 Aktivität
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Markus-Huckriede&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
 ## 🤝 Let's Connect
 
 Du hast ein Projekt, eine Idee oder eine offene Stelle? Schreib mir einfach über das [Portfolio](https://markus-huckriede.github.io/Portfolio-Website/), [LinkedIn](https://www.linkedin.com/in/markus-huckriede-674415251/) oder per [E-Mail](mailto:markus.huckriede@gmail.com).
