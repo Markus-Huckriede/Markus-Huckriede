@@ -48,7 +48,7 @@ Ich habe das **Masterschool-Bootcamp** abgeschlossen und baue seitdem an eigenen
 | Projekt | Beschreibung | Tech |
 |---|---|---|
 | [**Portfolio-Website**](https://markus-huckriede.github.io/Portfolio-Website/) | Meine persönliche Seite mit Projekten und Kontakt | HTML, CSS, JS |
-| [**Digital Nomad Maps**](https://www.digital-nomad-maps.de) | [Länder- und Visa-Infos für digitale Nomaden | React, Node.js, MySQL |
+| [**Digital Nomad Maps**](https://www.digital-nomad-maps.de) | Länder- und Visa-Infos für digitale Nomaden | React, Node.js, MySQL |
 
 ## 🤝 Let's Connect
 
@@ -61,5 +61,5 @@ Du hast ein Projekt, eine Idee oder eine offene Stelle? Schreib mir einfach übe
 <sub>*Werbung / Affiliate-Links:* Die folgenden Links sind Empfehlungslinks. Wenn du darüber bestellst oder buchst, bekommst du einen Rabatt und ich ggf. eine Provision. 
 Ich empfehle nur, was ich selbst genutzt habe.</sub>
 
-- 🌐 **[Hostinger](https://www.hostinger.com/de?REFERRALCODE=T9SMARKUSWZ0)**: Webhosting, das ich für [deinen Anwendungsfall] nutze *(Werbung)*
+- 🌐 **[Hostinger](https://www.hostinger.com/de?REFERRALCODE=T9SMARKUSWZ0)**: Webhosting, das ich nutze *(Werbung)*
 - 🎓 **[Masterschool](https://referral.masterschool.com/uGBHX0tk)**: Das Bootcamp, über das ich in die Tech-Welt eingestiegen bin *(Werbung)*
