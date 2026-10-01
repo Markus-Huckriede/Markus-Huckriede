@@ -5,9 +5,9 @@
 </p>
 
 <p align="center">
-  <a href="https://markus-huckriede.github.io/Portfolio-Website/"><img src="https://img.shields.io/badge/Portfolio-ansehen-6C63FF?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/markus-huckriede-674415251/"><img src="https://img.shields.io/badge/LinkedIn-vernetzen-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:markus.huckriede@gmail.com"><img src="https://img.shields.io/badge/E--Mail-schreiben-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-Mail" /></a>
+  <a href="https://markus-huckriede.github.io/Portfolio-Website/"><img src="https://img.shields.io/badge/%F0%9F%8C%90_Portfolio-ansehen-6C63FF?style=for-the-badge" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/markus-huckriede-674415251/"><img src="https://img.shields.io/badge/%F0%9F%92%BC_LinkedIn-vernetzen-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
+  <a href="mailto:markus.huckriede@gmail.com"><img src="https://img.shields.io/badge/%E2%9C%89%EF%B8%8F_E--Mail-schreiben-EA4335?style=for-the-badge" alt="E-Mail" /></a>
 </p>
 
 ---
@@ -31,10 +31,19 @@ Ich habe das **Masterschool-Bootcamp** abgeschlossen und baue seitdem an eigenen
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="50" alt="Figma" />
 </p>
 
-**Backend & Tools**
+**Mobile**
 
 <p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="50" alt="Flutter" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="50" alt="Dart" />
+</p>
+
+**Backend, Datenbanken & Tools**
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="Node.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="MySQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="50" alt="SQLite" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="50" alt="Postman" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="Git" />
